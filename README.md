@@ -2,13 +2,15 @@
 
 **I'm currently a Senior Software Developer based in Bangalore, India - involved in development and providing solutions on Healthcare applications.**
 
-In my part time, I keep engaging myself with projects regularly to learn and keep myself updated on various technologies. I've built projects involving AI models, cloud native applications with AWS Stack, Healthcare applications in .NET Framework and many more with scalable, testable and maintainable code.
+In my part time, I keep engaging myself with projects regularly to learn and keep myself updated on various technologies. I've built projects involving AI models, cloud native applications with AWS Stack, Healthcare applications in .NET Framework and more with scalable, testable and maintainable code.
 
-*Please do check out my Repos for few of the interesting projects that I've built.*
+Do check out my Repos for few of the interesting projects that I've built.
+
+*Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.*
 
  I'm looking to collaborate on building more projects involving scalable cloud native applications and/or innovative deep learning projects.
 
 ## Get in touch 📫 :
 
-Do feel free to reach out to me on gautamvr55@gmail.com.
+You can reach out to me on gautamvr55@gmail.com.
 
