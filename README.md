@@ -14,3 +14,7 @@ Do check out my Repos for few of the interesting projects that I've built.
 
 You can reach out to me on gautamvr55@gmail.com.
 
+### Socials
+
+<p align="left"> <a href="https://www.github.com/gautamvr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gautam-vr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
