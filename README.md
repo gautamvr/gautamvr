@@ -2,7 +2,7 @@
 
 **I'm currently a Senior Software Developer based in Bangalore, India - involved in development and providing solutions on Healthcare applications.**
 
-In my part time, I keep engaging myself with projects regularly to learn and keep myself updated on various technologies. I've built projects involving AI models, cloud native applications with AWS Stack, Healthcare applications in .NET Framework and more with scalable, testable and maintainable code.
+In my part time, I engage myself with projects regularly to learn and keep myself updated on various technologies. I've built projects involving AI models, cloud native applications with AWS Stack, Healthcare applications in .NET Framework and more with scalable, testable and maintainable code.
 
 Do check out my Repos for few of the interesting projects that I've built.
 
