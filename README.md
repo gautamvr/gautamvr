@@ -1,6 +1,6 @@
 # Hi, I’m Gautam! 👋 
 
-**I'm currently a Senior Software Developer based in Bangalore, India - involved in development and providing solutions on Healthcare applications.**
+**I'm currently a Software Engineer based in Bangalore, India - involved in development and providing solutions on applications in wide range of domains including healthcare and finance.**
 
 In my part time, I engage myself with projects regularly to learn and keep myself updated on various technologies. I've built projects involving AI models, cloud native applications with AWS Stack, Healthcare applications in .NET Framework and more with scalable, testable and maintainable code.
 
